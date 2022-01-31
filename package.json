@@ -1,5 +1,6 @@
 {
   "name": "todo-react",
+  "homepage": "https://kunsin01.github.io/todo-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
